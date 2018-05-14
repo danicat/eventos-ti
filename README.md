@@ -30,4 +30,4 @@ Aceitamos pull requests! :)
 
 ## Ajuda ou Suporte
 
-Crie uma issue sem associar ao projeto ou então mande um e-mail para daniela.petruzalek@gmail.com.
+Crie uma _issue_ ou então mande um e-mail para daniela.petruzalek@gmail.com.
