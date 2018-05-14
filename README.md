@@ -1,4 +1,4 @@
-## Eventos de TI
+# Calendário de Eventos de TI
 
 Este repositório é um calendário colaborativo de eventos de TI. 
 
